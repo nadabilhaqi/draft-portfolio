@@ -1,4 +1,5 @@
 Draft-Portfolio
 - Graphic Design
 - Motion Graphic
-- Web Programmer
+- Web Programming
+- Android Development
